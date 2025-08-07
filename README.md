@@ -5,6 +5,14 @@ Official repository to the article "Unsupervised Network Anomaly Detection with 
 
 <img src="images/reppr.png"/>
 
+## Preprocessed dataset
+
+The link for downloading the dataset will be available soon.
+
+## Instructions
+
+Download the preprocessed dataset (UGR'16) and then run the script training.py for fitting the CNN. Then, run test.py (or test_multiple_pda.py if you want to test with different thresholds).
+
 ## Authors
 
 Michael Neri*, Sara Baldoni°
