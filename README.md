@@ -2,6 +2,8 @@
 
 Official repository to the article "Unsupervised Network Anomaly Detection with Autoencoders and Traffic Images" accepted for publication in European Signal Processing Conference (EUSIPCO) 2025.
 
+Link to the [paper](https://arxiv.org/abs/2505.16650).
+
 
 <img src="images/reppr.png"/>
 
