@@ -9,7 +9,7 @@ Link to the [paper](https://arxiv.org/abs/2505.16650).
 
 ## Preprocessed dataset
 
-The link for downloading the dataset will be available soon.
+You can download the used dataset from the following Google Drive [link](https://drive.google.com/drive/folders/1yN96Jad-bSbUzRPmh6wv8600H4TKf7if?usp=sharing).
 
 ## Instructions
 
